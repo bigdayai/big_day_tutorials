@@ -17,6 +17,10 @@ Each notebook is essentially a lesson that teaches you the concepts as well as t
 
 - [ ] **API Calls**: Source data from an organization's API.
 
+- [ ] **SQL**: Source data from a relational database using SQL.
+
+- [ ] **Research**: Resources for finding and combining pre-existing datasets.
+
 ### Descriptive Statistics
 
 - [ ] **Discriptive Statistics**: Learn how to analyze samples of data.
