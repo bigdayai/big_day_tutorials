@@ -1,4 +1,4 @@
-# project_templates
+# Big Day Tutorials
 Templates &amp; Tutorials for Data Science Projects
 
 # Overview
